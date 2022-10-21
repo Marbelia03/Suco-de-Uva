@@ -1,0 +1,20 @@
+* {
+  font-family: Montserrat;
+}
+
+h1 {
+  color: #FFB300;
+}
+
+body {
+  margin-left: 40px; 
+  margin-right: 300px;
+}
+
+h2 {
+  color: #FFB300;
+}
+
+iframe {
+  margin-top: 20px;
+}
